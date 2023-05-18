@@ -1,0 +1,16 @@
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\bin\x64\Debug\Gun_store.accdb
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\bin\x64\Debug\Gun_shop.exe.config
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\bin\x64\Debug\Gun_shop.exe
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\bin\x64\Debug\Gun_shop.pdb
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.csproj.AssemblyReference.cache
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.Form1.resources
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.Properties.Resources.resources
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.csproj.GenerateResource.cache
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.csproj.CoreCompileInputs.cache
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.exe
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.pdb
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.Form2.resources
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.Form3.resources
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.Form4.resources
+C:\Users\Артур\OneDrive\Робочий стіл\Курсова\Gun_shop\Gun_shop\obj\x64\Debug\Gun_shop.Form5.resources
